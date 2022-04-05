@@ -1,0 +1,18 @@
+{
+    "os": "Windows-10-10.0.19043-SP0",
+    "python": "3.8.13",
+    "heartbeatAt": "2022-04-05T08:00:05.607870",
+    "startedAt": "2022-04-05T08:00:02.170659",
+    "docker": null,
+    "gpu": "NVIDIA GeForce GTX 1660 SUPER",
+    "gpu_count": 1,
+    "cpu_count": 16,
+    "cuda": null,
+    "args": [],
+    "state": "running",
+    "program": "c:\\Users\\apple\\ws\\unet\\scripts\\main.py",
+    "codePath": "scripts\\main.py",
+    "host": "DESKTOP-8284SOA",
+    "username": "applesquiz",
+    "executable": "C:\\Users\\apple\\anaconda3\\envs\\unet\\python.exe"
+}
